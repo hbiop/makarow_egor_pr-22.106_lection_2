@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 int y = 0;
                 int yyy = y;
+                double e = 0.01;
             }
         });
     }
