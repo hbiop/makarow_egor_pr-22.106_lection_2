@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 int y = 0;
                 bool q = true;
-
+                int [,] array2 = new int [2][2];
             }
         });
     }
